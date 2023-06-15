@@ -1,4 +1,4 @@
-# **Bachelor of Science in Computer Science**
+#**Bachelor of Science in Computer Science**
 
 > Relevant to **School of Engineering and Applied Sciences** students only
 
@@ -13,7 +13,7 @@ Data from the template comes verbatim from [BSCS Checklist](https://uvacsadvisin
 Clone this sheet to start editing.
 
 <div style="width: 100%;">
-  <iframe src="https://docs.google.com/spreadsheets/d/1iZlybDljTmrgzpiDR6iEM8QYMJTW9-APTc1m_ItCBdQ/edit?usp=sharing">
+  <iframe src="https://docs.google.com/spreadsheets/d/1iZlybDljTmrgzpiDR6iEM8QYMJTW9-APTc1m_ItCBdQ/edit?usp=sharing"></iframe>
 </div>
 
 Link: [https://docs.google.com/spreadsheets/d/1iZlybDljTmrgzpiDR6iEM8QYMJTW9-APTc1m_ItCBdQ/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1iZlybDljTmrgzpiDR6iEM8QYMJTW9-APTc1m_ItCBdQ/edit?usp=sharing)

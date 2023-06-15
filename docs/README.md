@@ -1,15 +1,14 @@
 ---
 permalink: /
+title: UVA Degree Plans
+description: Google Sheets Templates for tracking degrees at the University of Virginia
 ---
-# **UVA Degree Plans**
-
-> Google Sheets Templates for degree tracking at UVA
 
 ## About
 
 This project was started after making a Sheets template to track graduating with a Bachelor of Science in Computer Science in three years.
 
-UVA's Student Information System (SIS) degree planner is overbearing and confusing. The Department of Computer Science did put out a [degree checklist](https://uvacsadvising.org/materials/uva-bscs-checklist.pdf) and [example schedule](https://uvacsadvising.org/materials/bscs-example-schedule.pdf) in pdf format. However, there exists value to creating a consolodated spreadsheet.
+UVA's Student Information System (SIS) degree planner is overbearing and confusing. The Department of Computer Science did put out a [degree checklist](https://uvacsadvising.org/materials/uva-bscs-checklist.pdf) and [example schedule](https://uvacsadvising.org/materials/bscs-example-schedule.pdf) in pdf format. However, there exists value to creating a consolidated spreadsheet.
 
 ## How to use this project
 
